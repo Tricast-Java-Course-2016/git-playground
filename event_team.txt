@@ -1,2 +1,3 @@
 ﻿Ez egy fájl!
 Beleirok én.
+Valami mást beleírok.
