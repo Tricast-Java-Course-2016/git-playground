@@ -1,1 +1,2 @@
-Ez egy fájl!
+﻿Ez egy fájl!
+Beleirok én.
