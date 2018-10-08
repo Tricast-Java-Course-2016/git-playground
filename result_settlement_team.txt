@@ -4,3 +4,5 @@ Teszt szöveg, én írtam (Peti)
 
 
 még egy sor (Ezt Beni írta, conflict volt)
+
+Teszt szöveg v2.0, én írtam (Peti)
