@@ -5,4 +5,8 @@ Teszt szöveg, én írtam (Peti)
 
 még egy sor (Ezt Beni írta, conflict volt)
 
+<<<<<<< HEAD
 remélem nekem is conflict lesz.
+=======
+Teszt szöveg v2.0, én írtam (Peti)
+>>>>>>> branch 'master' of https://github.com/Tricast-Java-Course-2016/git-playground.git
