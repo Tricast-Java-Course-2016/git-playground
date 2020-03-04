@@ -3,10 +3,7 @@ abAKOSAKOSAKOSAKOScd
 abAKOSAKOSAKOSAKOScdefghijk
 Még egy teszt
 askosdaokfd
-<<<<<<< HEAD
 sor
-=======
 teama
->>>>>>> 2f572c52695077030ee05bb31ead28efad4f96bc
-
 uj sor hozzáadasa
+hvrevoiwerhhepiorhvihiovsdverberbenbtbebrbe
